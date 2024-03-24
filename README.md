@@ -1,4 +1,4 @@
-![aloogobi](https://github.com/Poorna-chandra-reddy/CoolDishes.github.io/assets/129781525/94eda261-1e0e-4bf9-804f-13e1d9a0d032)
+![aloogobi](/images/https://github.com/Poorna-chandra-reddy/CoolDishes.github.io/assets/129781525/94eda261-1e0e-4bf9-804f-13e1d9a0d032)
 ![amritsarikulcha](https://github.com/Poorna-chandra-reddy/CoolDishes.github.io/assets/129781525/0ef68a7c-128b-40e4-a884-a705e3d5cb0b)
 ![applepie](https://github.com/Poorna-chandra-reddy/CoolDishes.github.io/assets/129781525/8bff3b8d-565f-41e5-afe6-05fcb3be8989)
 ![bangersandmash](https://github.com/Poorna-chandra-reddy/CoolDishes.github.io/assets/129781525/47a28adb-f349-491b-a7c1-28ce8031ae5e)
